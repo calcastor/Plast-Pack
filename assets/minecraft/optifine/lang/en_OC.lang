@@ -158,12 +158,12 @@ of.options.FOG_START.tooltip.2=  0.2 - the fog starts near the player
 of.options.FOG_START.tooltip.3=  0.8 - the fog starts far from the player
 of.options.FOG_START.tooltip.4=This option usually does not affect the performance.
 
-of.options.CHUNK_LOADING=Chunk Loading
+of.options.CHUNK_LOADING=§bChunk Loading
 of.options.CHUNK_LOADING.tooltip.1=Chunk Loading
 of.options.CHUNK_LOADING.tooltip.2=  Default - unstable FPS when loading chunks
 of.options.CHUNK_LOADING.tooltip.3=  Smooth - stable FPS
 of.options.CHUNK_LOADING.tooltip.4=  Multi-Core - stable FPS, 3x faster world loading
-of.options.CHUNK_LOADING.tooltip.5=Smooth and Multi-Core remove the stuttering and 
+of.options.CHUNK_LOADING.tooltip.5=Smooth and Multi-Core remove the stuttering and
 of.options.CHUNK_LOADING.tooltip.6=freezes caused by chunk loading.
 of.options.CHUNK_LOADING.tooltip.7=Multi-Core can speed up 3x the world loading and
 of.options.CHUNK_LOADING.tooltip.8=increase FPS by using a second CPU core.
@@ -339,6 +339,13 @@ of.options.RANDOM_ENTITIES.tooltip.2=  OFF - no random entities, faster
 of.options.RANDOM_ENTITIES.tooltip.3=  ON - random entities, slower
 of.options.RANDOM_ENTITIES.tooltip.4=Random entities uses random textures for the game entities.
 of.options.RANDOM_ENTITIES.tooltip.5=It needs a resource pack which has multiple entity textures.
+
+of.options.RANDOM_MOBS=§bRandom Entities
+of.options.RANDOM_MOBS.tooltip.1=Random Entities
+of.options.RANDOM_MOBS.tooltip.2=  OFF - no random entities, faster
+of.options.RANDOM_MOBS.tooltip.3=  ON - random entities, slower
+of.options.RANDOM_MOBS.tooltip.4=Random entities uses random textures for the game entities.
+of.options.RANDOM_MOBS.tooltip.5=It needs a resource pack which has multiple entity textures.
 
 of.options.BETTER_GRASS=§bBetter Grass
 of.options.BETTER_GRASS.tooltip.1=Better Grass
