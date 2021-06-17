@@ -258,7 +258,7 @@ multiplayer.texturePrompt.line1=This server recommends the use of a custom resou
 multiplayer.texturePrompt.line2=Would you like to download and install it automagically?
 multiplayer.downloadingTerrain=§aLoading terrain
 multiplayer.downloadingStats=§aDownloading statistics & achievements...
-multiplayer.stopSleeping=§cLeave Bed
+multiplayer.stopSleeping=§bLeave Bed
 multiplayer.player.joined=%s joined the game
 multiplayer.player.joined.renamed=%s (formerly known as %s) joined the game
 multiplayer.player.left=%s left the game
@@ -2364,8 +2364,8 @@ attribute.name.generic.luck=Luck
 attribute.name.generic.armor=Armor
 attribute.name.generic.armorToughness=Armor Toughness
 
-screenshot.success=§aSaved screenshot as §b%s
-screenshot.failure=§cCouldn't save screenshot: %s
+screenshot.success=§aSaved screenshot as §r%s
+screenshot.failure=§cCouldn't save screenshot: §r%s
 
 item.banner.black.name=Black Banner
 item.banner.red.name=Red Banner
